@@ -1,0 +1,912 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Régions de France</name>
+		<description><![CDATA[les régions de France]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Région : Aquitaine</name>
+				<styleUrl>#poly-FF9966-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-0.6042479999999999,44.95702399999999,0.0 -0.6263378895799653,44.99828823794423,0.0 -0.8129880000000002,45.344424,0.0 -1.131592,45.560218,0.0 -1.229976831201505,44.99339847011835,0.0 -1.47216,43.54854,0.0 -1.80175,43.34116,0.0 -1.42822,43.10098,0.0 -0.30761,42.82762999999999,0.0 0.0,43.51668000000001,0.0 -0.26367,43.61221,0.0 -0.24169,43.91372,0.0 0.8788999999999999,44.24519,0.0 1.3732244876889308,44.991771095315556,0.0 1.42822,45.07352,0.0 1.27441,45.42929,0.0 0.6372,45.73686,0.0 -0.06591,45.10454000000001,0.0 -0.6811499999999999,45.36758,0.0 -0.6119414227167133,44.9983660252665,0.0 -0.6042479999999999,44.95702399999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Midi Pyrénées</name>
+				<styleUrl>#poly-66FF99-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-0.2636720000000001,43.620171,0.0 -0.016479,43.524655,0.0 -0.307617,42.843751,0.0 -0.049438,42.698586000000006,0.0 0.6427000000000002,42.70262300000001,0.0 0.675659,42.88804,0.0 1.779785,42.553079999999994,0.0 2.136841,42.682435000000005,0.0 1.8676760000000001,42.827639,0.0 1.9665529999999996,42.855833,0.0 1.9610600000000002,43.113014,0.0 1.6644290000000002,43.22119,0.0 1.8347169999999997,43.452919,0.0 2.658691,43.456906,0.0 2.60376,43.616194,0.0 3.186035,43.814711,0.0 3.4442140000000006,44.02837100000001,0.0 3.290405,44.091531,0.0 3.389282,44.21371,0.0 3.22998,44.18614300000001,0.0 3.1420900000000005,44.272738,0.0 3.103638,44.543505,0.0 2.7301030000000006,44.949249,0.0 2.4719240000000005,44.672559,0.0 2.202759,44.625664,0.0 2.078862502968652,44.98113902289959,0.0 2.076416,44.988113,0.0 2.036972604507139,44.98189163533878,0.0 1.807251,44.945361,0.0 1.684806970617556,44.987612597147944,0.0 1.422729,45.0774,0.0 1.3651880407985235,44.99186713771328,0.0 0.8734129999999999,44.249134,0.0 -0.24169899999999994,43.921637,0.0 -0.2636720000000001,43.620171,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Poitou Charente</name>
+				<styleUrl>#poly-0000FF-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-1.5380860000000003,46.15700499999999,0.0 -1.153564,46.149394,0.0 -1.054687,45.97406000000001,0.0 -1.3842770000000002,45.996962,0.0 -1.230469,45.683158,0.0 -0.08789100000000001,45.12005299999999,0.0 0.9008790000000001,45.981695,0.0 0.845947,46.06560799999999,0.0 0.8020020000000001,46.233053000000005,0.0 1.032715,46.377254,0.0 1.219482,46.369674,0.0 1.142578,46.536193,0.0 0.8898930000000002,46.611715,0.0 0.9118650000000001,46.717269,0.0 0.571289,47.025206,0.0 0.32958999999999994,46.950262,0.0 -0.021973,47.174778,0.0 -0.856934,46.965258999999996,0.0 -0.483398,46.362093,0.0 -1.032715,46.316584,0.0 -1.5380860000000003,46.15700499999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Limousin</name>
+				<styleUrl>#poly-FFFF33-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.7103116102649414,44.9872346608679,0.0 1.8182370000000005,44.953137,0.0 2.051152552905897,44.981638588784286,0.0 2.136841,44.991998,0.0 2.1038820000000005,45.058001,0.0 2.230225,45.158801000000004,0.0 2.1698,45.205263,0.0 2.351074,45.41002,0.0 2.4829099999999995,45.383019,0.0 2.521362,45.544830999999995,0.0 2.466431,45.598666,0.0 2.543335,45.652448,0.0 2.444458,45.847933999999995,0.0 2.5872800000000002,46.004593,0.0 2.576294,46.172223,0.0 2.2631839999999994,46.422712999999995,0.0 1.038208,46.365884,0.0 0.796509,46.22925300000001,0.0 0.9008790000000001,45.981695,0.0 0.631714,45.744527,0.0 1.2744139999999997,45.448571,0.0 1.422729,45.0774,0.0 1.7103116102649414,44.9872346608679,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Auvergne</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>2.0884586084197783,44.980964456451055,0.0 2.202759,44.625664,0.0 2.4829099999999995,44.680372000000006,0.0 2.730103,44.953137,0.0 2.988281,44.66865299999999,0.0 3.1036380000000006,44.887012,0.0 3.3540825624639155,44.95088514516185,0.0 3.378296,44.95702399999999,0.0 3.3953954190008795,44.94966706805066,0.0 3.8452150000000005,44.75453499999999,0.0 4.152832,44.875336000000004,0.0 4.199506999656064,44.92298014306437,0.0 4.493408,45.220743,0.0 4.202271,45.40230700000001,0.0 3.894653,45.328979000000004,0.0 3.944092000000001,45.556372,0.0 3.7353520000000002,45.744527,0.0 3.696899,45.954969000000006,0.0 3.834229000000001,45.996962,0.0 3.7518309999999997,46.263442999999995,0.0 3.9825439999999994,46.305201,0.0 4.004517,46.48326500000001,0.0 3.757324,46.547528,0.0 3.5980219999999994,46.754917000000006,0.0 3.202515,46.690899,0.0 2.988281,46.80758,0.0 2.598267,46.698434999999996,0.0 2.598267,46.551305,0.0 2.3565670000000005,46.53997100000001,0.0 2.268677,46.415139,0.0 2.581787,46.172223,0.0 2.592773,45.989329,0.0 2.4444579999999996,45.85941199999999,0.0 2.543335,45.660127,0.0 2.4719240000000005,45.587134,0.0 2.504883,45.564064,0.0 2.4829099999999995,45.37530199999999,0.0 2.356567,45.406164,0.0 2.1752929999999995,45.205263,0.0 2.2302249999999995,45.162674,0.0 2.1038820000000005,45.061882,0.0 2.147827,44.995883,0.0 2.087402,44.984228,0.0 2.0884586084197783,44.980964456451055,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Bourgogne</name>
+				<styleUrl>#poly-000066-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>3.153076,46.68713100000001,0.0 3.6035160000000004,46.747389,0.0 3.757324,46.54375,0.0 3.933104999999999,46.445427,0.0 3.977051,46.172223,0.0 4.647217,46.33934300000001,0.0 4.790039,46.21025,0.0 4.954833999999999,46.505954,0.0 5.427246,46.452997,0.0 5.273437999999999,47.010226,0.0 5.50415,47.15236900000001,0.0 5.449219000000001,47.60616300000001,0.0 5.174561,47.598755,0.0 4.691161999999999,48.019324,0.0 3.9221189999999995,47.960502,0.0 3.383789,48.392738,0.0 3.02124,48.38544199999999,0.0 2.8894039999999994,48.180738999999996,0.0 3.1420900000000005,48.00462499999999,0.0 2.856445,47.768868,0.0 2.8894039999999994,47.34626699999999,0.0 3.0432129999999997,46.800059,0.0 3.153076,46.68713100000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Rhône-Alpes</name>
+				<styleUrl>#poly-339999-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>4.183719160186095,44.92355867249604,0.0 4.16381,44.90256999999999,0.0 3.84521,44.75453000000001,0.0 3.9303500000000007,44.58068000000001,0.0 3.9852900000000004,44.51216999999999,0.0 3.985290000000001,44.47691,0.0 4.05944,44.4377,0.0 4.042960000000001,44.32384,0.0 4.11987,44.34153,0.0 4.25445,44.27076999999999,0.0 4.33136,44.35135,0.0 4.38903,44.34741999999999,0.0 4.38629,44.2924,0.0 4.43573,44.2924,0.0 4.46044,44.35331,0.0 4.53186,44.339560000000006,0.0 4.64447,44.27667,0.0 4.63897,44.339560000000006,0.0 4.770809999999999,44.32384,0.0 4.81201,44.23732,0.0 4.968560000000001,44.284530000000004,0.0 4.87793,44.32581,0.0 4.90539,44.41024,0.0 4.97406,44.43966,0.0 5.059199999999999,44.38276,0.0 4.98504,44.29435999999999,0.0 5.10589,44.28257,0.0 5.15258,44.31598,0.0 5.158079999999999,44.23929,0.0 5.364069999999999,44.20977,0.0 5.38192,44.15954,0.0 5.43685,44.15757,0.0 5.45608,44.12012,0.0 5.50415,44.11914,0.0 5.71289,44.24519,0.0 5.43823,44.41808,0.0 6.137489865462986,44.835324545913934,0.0 6.624749999999998,45.12005,0.0 7.14111,45.25941999999999,0.0 7.174069999999999,45.40615999999999,0.0 6.756590000000001,45.82114000000001,0.0 7.00927,45.98169,0.0 6.800530000000001,46.42271,0.0 6.519012,46.460566,0.0 6.330872000000001,46.401882,0.0 6.222381999999999,46.315636,0.0 6.264954,46.247299999999996,0.0 6.295166000000001,46.266291,0.0 6.302032,46.228303000000004,0.0 6.1784360000000005,46.195042,0.0 6.186675999999999,46.159859,0.0 5.960083000000001,46.13036300000001,0.0 5.993042000000001,46.184585,0.0 5.953217000000001,46.208349,0.0 6.05484,46.24825,0.0 6.101532,46.243501,0.0 6.120758000000001,46.257746000000004,0.0 6.097411999999999,46.28622399999999,0.0 6.170197,46.372517,0.0 6.060333000000001,46.418926,0.0 5.88867,46.28622,0.0 5.4602,46.28622,0.0 5.27343,46.46056,0.0 4.943840000000001,46.50595,0.0 4.768060000000001,46.21025,0.0 4.61425,46.34692,0.0 3.9880300000000006,46.16461000000001,0.0 3.9550699999999988,46.28622,0.0 3.74633,46.27103,0.0 3.83422,45.98169000000001,0.0 3.7023900000000003,45.95878,0.0 3.74633,45.75985,0.0 3.90014,45.55252,0.0 3.92211,45.32897,0.0 4.16381,45.42158,0.0 4.48242,45.23621,0.0 4.183719160186095,44.92355867249604,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Languedoc Roussillon</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>3.1420900000000005,42.504503,0.0 2.944336,43.13306099999999,0.0 4.020995999999999,43.59630599999999,0.0 4.240723000000001,43.500752,0.0 4.471436,43.612217,0.0 4.430237,43.626135,0.0 4.493408,43.709579000000005,0.0 4.611511,43.65992399999999,0.0 4.641724,43.84047,0.0 4.822998,44.01257100000001,0.0 4.724121,44.087585,0.0 4.641724,44.268805,0.0 4.5401,44.331707,0.0 4.457703,44.347422,0.0 4.430237,44.298299,0.0 4.383545,44.294367,0.0 4.380798,44.34742200000001,0.0 4.323120000000001,44.351350000000004,0.0 4.246216,44.280604,0.0 4.117126,44.347422,0.0 4.042969000000001,44.323848,0.0 3.8452150000000005,44.746733000000006,0.0 3.4057619999999997,44.949248999999995,0.0 3.1201169999999996,44.855869,0.0 2.9663089999999994,44.653024,0.0 3.2299800000000003,44.21371,0.0 3.372803,44.205835,0.0 3.284912,44.095476,0.0 3.4167480000000006,44.024422,0.0 3.197021,43.834527,0.0 2.60376,43.60426199999999,0.0 2.636719,43.47684,0.0 1.8566890000000003,43.460894,0.0 1.6479489999999999,43.229195,0.0 1.9555660000000001,43.117024,0.0 1.9665529999999996,42.851806,0.0 1.845703,42.835696,0.0 2.120361,42.682435,0.0 1.779785,42.536892,0.0 2.010498,42.366662000000005,0.0 2.285156,42.439674,0.0 2.592773,42.334184,0.0 3.1420900000000005,42.504503,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Ile de France</name>
+				<styleUrl>#poly-0000FF-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.757813,49.285723,0.0 1.58752,49.07746,0.0 1.4392000000000003,49.066660000000006,0.0 1.6040000000000003,48.68370000000001,0.0 1.98852,48.29415,0.0 2.40051,48.33069,0.0 2.4499499999999994,48.1331,0.0 2.8894,48.1844,0.0 3.015740000000001,48.39273,0.0 3.3782899999999993,48.39638,0.0 3.56506,48.64379,0.0 3.4497,48.65105,0.0 3.48815,48.857479999999995,0.0 3.10913,49.12062,0.0 2.57629,49.08466,0.0 2.3181100000000003,49.18529,0.0 2.2412100000000006,49.16015,0.0 1.757813,49.285723,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Centre</name>
+				<styleUrl>#poly-33FF33-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-0.010986,47.16731000000001,0.0 0.340576,46.942762,0.0 0.593262,47.017716,0.0 0.922852,46.717269,0.0 0.889893,46.604167,0.0 1.120605,46.536193,0.0 1.208496,46.39241100000001,0.0 2.2521969999999993,46.415139,0.0 2.351074,46.536193,0.0 2.5927729999999998,46.54375,0.0 2.592773,46.69466700000001,0.0 3.054199,46.80758,0.0 2.8674319999999995,47.33137700000001,0.0 2.8454589999999995,47.761483999999996,0.0 3.1420900000000005,48.00462499999999,0.0 2.8784180000000004,48.188063,0.0 2.427979,48.122101,0.0 2.3840330000000005,48.327039000000006,0.0 1.999512,48.305121,0.0 1.5820310000000002,48.71271300000001,0.0 1.4392090000000002,49.066668,0.0 1.3403319999999999,48.78515199999999,0.0 0.7690430000000001,48.719961,0.0 1.010742,48.480204,0.0 0.7580570000000001,48.363549,0.0 0.856934,48.180738999999996,0.0 0.681152,47.761484,0.0 0.197754,47.591346,0.0 -0.010986,47.16731000000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Basse Normandie</name>
+				<styleUrl>#poly-666600-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>0.7580570000000001,48.719961,0.0 0.4064940000000001,48.886392,0.0 0.296631,49.4467,0.0 -0.296631,49.332282,0.0 -1.1975099999999999,49.37521999999999,0.0 -1.307373,49.553726000000005,0.0 -1.1535640000000003,49.696062000000005,0.0 -1.988525,49.696062,0.0 -1.647949,49.196064,0.0 -1.5710450000000002,48.785152,0.0 -1.362305,48.654686000000005,0.0 -1.5820309999999997,48.62564700000001,0.0 -1.4721679999999997,48.487486,0.0 -0.20874,48.552978,0.0 0.06591800000000002,48.414619,0.0 0.307617,48.494768,0.0 0.373535,48.319734,0.0 0.6152340000000001,48.275882,0.0 0.9997559999999998,48.480204,0.0 0.7580570000000001,48.719961,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Nord Pas de Calais</name>
+				<styleUrl>#poly-FF6600-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.549072,50.889174,0.0 1.5490719999999998,50.415519,0.0 2.4060060000000005,50.148746,0.0 4.180298,49.97595499999999,0.0 4.218750000000001,50.268277,0.0 2.625732,50.854509,0.0 2.526855,51.096623,0.0 1.549072,50.889174,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Picardie</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.5710450000000002,50.401515,0.0 1.3952639999999998,50.07829499999999,0.0 1.73584,49.866316999999995,0.0 1.7687989999999998,49.274972999999996,0.0 2.252197,49.15297,0.0 2.329102,49.196064,0.0 2.570801,49.08825800000001,0.0 3.120117,49.09545200000001,0.0 3.47168,48.864715,0.0 3.68042,49.009051,0.0 3.647461,49.325122,0.0 4.075928,49.382373,0.0 4.020996,49.632062,0.0 4.21875,49.738682,0.0 4.21875,49.972422,0.0 2.373047,50.162824,0.0 1.5710450000000002,50.401515,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Normandie</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>1.0162350000000002,49.93708,0.0 0.582275,49.869857,0.0 0.15380900000000003,49.703168,0.0 0.027465999999999997,49.50381,0.0 0.307617,49.432413,0.0 0.406494,48.890004,0.0 0.752563,48.730832,0.0 1.3293460000000001,48.781533,0.0 1.4392090000000002,49.063069,0.0 1.587524,49.08465999999999,0.0 1.757813,49.26422,0.0 1.7303470000000003,49.866317,0.0 1.3897710000000003,50.07124400000001,0.0 1.0162350000000002,49.93708,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Champagne Ardenne</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>4.207764000000001,49.742232,0.0 4.026489,49.63562000000001,0.0 4.064941,49.385949,0.0 3.641968,49.325122,0.0 3.6749269999999994,49.012654,0.0 3.4881589999999996,48.879167,0.0 3.444214000000001,48.654686000000005,0.0 3.57605,48.651056999999994,0.0 3.372803,48.396385,0.0 3.9221189999999995,47.967859,0.0 4.691161999999999,48.01565,0.0 5.19104,47.598755,0.0 5.443726,47.602459,0.0 5.674438,47.69497400000001,0.0 5.883179,47.927386,0.0 5.668945,48.092757,0.0 5.723877,48.20271,0.0 4.905396,48.821333,0.0 5.026245000000001,48.94775899999999,0.0 4.9163820000000005,49.188884,0.0 5.042725000000001,49.282140000000005,0.0 5.07019,49.50381000000001,0.0 5.103149,49.592909,0.0 5.284424,49.553726,0.0 5.394287,49.603591,0.0 4.993286000000001,49.820265000000006,0.0 4.850464,49.791904,0.0 4.883423,49.915862,0.0 4.795532,49.965356,0.0 4.866943,50.095917,0.0 4.839478,50.159304999999996,0.0 4.696655,50.102964,0.0 4.65271,49.986551999999996,0.0 4.213257,49.961822,0.0 4.207764000000001,49.742232,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Alsace</name>
+				<styleUrl>#poly-006600-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>7.539368,48.93873899999999,0.0 7.135620000000001,49.00184399999999,0.0 7.088928,49.081062,0.0 6.946106,48.904449,0.0 7.072449,48.7942,0.0 7.198792,48.83579699999999,0.0 7.325134000000003,48.767052,0.0 7.185059,48.53479500000001,0.0 7.083435,48.53479500000001,0.0 7.083434999999999,48.341646,0.0 7.196045,48.319734,0.0 6.841736,47.829752,0.0 7.165833,47.437377,0.0 7.380066000000001,47.428087,0.0 7.58606,47.580231,0.0 7.525635000000001,47.783635,0.0 7.630005,47.975214,0.0 7.531127999999999,48.078079,0.0 8.058472,48.79239,0.0 8.239746,48.973006,0.0 7.635498000000001,49.063069,0.0 7.539368,48.93873899999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Lorraine</name>
+				<styleUrl>#poly-3333FF-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>5.284424,49.553726,0.0 5.08667,49.592909,0.0 5.042725000000001,49.28930600000001,0.0 4.921875000000001,49.196064,0.0 5.031738000000001,48.95136600000001,0.0 4.894408999999999,48.817716,0.0 5.723877,48.217352999999996,0.0 5.652466,48.096426,0.0 5.872192000000001,47.93842699999999,0.0 6.828003,47.820532,0.0 7.196045,48.319734,0.0 7.064209,48.337995,0.0 7.086182,48.54570499999999,0.0 7.174072,48.542069,0.0 7.333374,48.75256699999999,0.0 7.201538,48.832182,0.0 7.058716,48.79239,0.0 6.948853000000001,48.904449,0.0 7.086182000000001,49.070267,0.0 7.135620000000001,48.994636,0.0 7.547607000000001,48.92971800000001,0.0 7.630004999999999,49.063069,0.0 6.723633,49.174522,0.0 6.558838000000001,49.460984,0.0 6.168823,49.51094400000001,0.0 6.009521,49.457413,0.0 5.795288,49.564415,0.0 5.465698000000001,49.50381000000001,0.0 5.39978,49.61426899999999,0.0 5.284424,49.553726,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Franche-compté</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>5.679932,47.698672,0.0 5.449219000000001,47.602459,0.0 5.509644,47.156105,0.0 5.273437999999999,47.010226,0.0 5.432739,46.460566,0.0 5.251465,46.45299700000001,0.0 5.471191,46.282428,0.0 5.891418,46.29002,0.0 6.001282,46.373464000000006,0.0 6.064453000000001,46.42649900000001,0.0 6.0672,46.461512,0.0 6.157837000000001,46.546583000000005,0.0 6.119384999999999,46.585294000000005,0.0 7.053223000000001,47.361153,0.0 6.855469000000001,47.361153,0.0 7.113647,47.494937,0.0 6.833496,47.816843,0.0 5.883179,47.931066,0.0 5.679932,47.698672,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Bretagne</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-1.5161130000000003,48.472921,0.0 -1.6259769999999998,48.632909,0.0 -2.39502,48.661943,0.0 -2.702637,48.545705,0.0 -3.076172,48.879167,0.0 -4.790039,48.603858,0.0 -4.768066000000001,48.136767,0.0 -4.416504,47.813155,0.0 -4.086914,47.91634200000001,0.0 -2.570801,47.487513,0.0 -1.230469,47.827908,0.0 -1.0766600000000002,47.975214,0.0 -1.07666,48.487486,0.0 -1.5161130000000003,48.472921,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : Pays de la Loire</name>
+				<styleUrl>#poly-660000-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-2.329102,47.15984,0.0 -1.933594,47.085085,0.0 -2.241211,46.995241,0.0 -1.8896480000000002,46.498391999999996,0.0 -1.2304689999999998,46.225452999999995,0.0 -0.483398,46.346928,0.0 -0.8789060000000001,46.965259,0.0 -0.043945,47.144897,0.0 0.197754,47.620974999999994,0.0 0.6811519999999999,47.798397,0.0 0.8789059999999999,48.21003199999999,0.0 0.74707,48.341646,0.0 0.593262,48.239309,0.0 0.395508,48.327039,0.0 0.285645,48.516604,0.0 0.043945,48.414619,0.0 -0.21972699999999998,48.53115700000001,0.0 -1.0766600000000002,48.516604,0.0 -1.07666,47.989922,0.0 -1.230469,47.827908,0.0 -2.416992,47.457809000000005,0.0 -2.329102,47.15984,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Région : PACA</name>
+				<styleUrl>#poly-660000-3-115-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>4.438477000000001,43.51668900000001,0.0 5.998535,43.084937,0.0 6.525879,43.229195,0.0 7.514648,43.739352000000004,0.0 7.492676000000001,43.882057,0.0 7.778320000000001,44.087585,0.0 7.668457000000003,44.197959000000004,0.0 7.316895,44.150681,0.0 6.965332000000001,44.260937,0.0 6.877441,44.527843,0.0 6.987305000000001,44.76233700000001,0.0 6.962289210717173,44.78797394945702,0.0 6.635741999999999,45.12005299999999,0.0 6.145989709366742,44.834867236196956,0.0 5.471191,44.43377999999999,0.0 5.712891,44.229457,0.0 5.515137000000001,44.134913000000005,0.0 4.614258,44.355278,0.0 4.790039,43.99281500000001,0.0 4.658203000000001,43.644026,0.0 4.438477000000001,43.51668900000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-000066-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff660000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73660000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-000066-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff660000</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73660000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-000066-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000066-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000066-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-0000FF-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF0000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-0000FF-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF0000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-0000FF-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-0000FF-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-0000FF-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-006600-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff006600</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73006600</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-006600-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff006600</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73006600</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-006600-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-006600-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-006600-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-3333FF-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF3333</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-3333FF-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF3333</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-3333FF-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-3333FF-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-3333FF-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-339999-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff999933</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73999933</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-339999-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff999933</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73999933</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-339999-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-339999-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-339999-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-33FF33-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7333FF33</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-33FF33-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7333FF33</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-33FF33-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-33FF33-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-33FF33-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-660000-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff000066</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73000066</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-660000-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000066</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73000066</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-660000-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-660000-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-660000-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-666600-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff006666</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73006666</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-666600-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff006666</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73006666</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-666600-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-666600-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-666600-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-66FF99-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff99FF66</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7399FF66</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-66FF99-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff99FF66</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7399FF66</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-66FF99-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-66FF99-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-66FF99-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-CC33CC-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-CC33CC-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-CC33CC-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-CC33CC-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-CC33CC-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF0000-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF0000-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF6600-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff0066FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730066FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF6600-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0066FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730066FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF6600-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF6600-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF6600-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF9900-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF9900-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF9900-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF9900-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF9900-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF9966-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff6699FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>736699FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF9966-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff6699FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>736699FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF9966-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF9966-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF9966-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFFF00-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFFF00-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFFF00-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFFF00-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFFF00-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFFF33-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff33FFFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7333FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFFF33-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff33FFFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7333FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFFF33-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFFF33-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFFF33-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
